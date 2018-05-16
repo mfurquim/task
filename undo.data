@@ -35,3 +35,15 @@ time 1526509686
 old [description:"modifying task-git.sh" entry:"1526509663" modified:"1526509684" start:"1526509684" status:"pending" uuid:"08168e7b-7131-4e40-814d-095d09abb2d3"]
 new [description:"modifying task-git.sh" entry:"1526509663" modified:"1526509686" status:"pending" uuid:"08168e7b-7131-4e40-814d-095d09abb2d3"]
 ---
+time 1526509701
+old [description:"modifying task-git.sh" entry:"1526509663" modified:"1526509686" status:"pending" uuid:"08168e7b-7131-4e40-814d-095d09abb2d3"]
+new [description:"modifying task-git.sh" entry:"1526509663" modified:"1526509701" start:"1526509698" status:"pending" uuid:"08168e7b-7131-4e40-814d-095d09abb2d3"]
+---
+time 1526509706
+old [description:"--task-git-push Trying task w\/ git" end:"1526508224" entry:"1526508114" modified:"1526508226" status:"deleted" uuid:"0d2cd474-205d-424a-979b-7faa2022a3a3"]
+new [description:"--task-git-push Trying task w\/ git" end:"1526508224" entry:"1526508114" modified:"1526509706" start:"1526509701" status:"pending" uuid:"0d2cd474-205d-424a-979b-7faa2022a3a3"]
+---
+time 1526509706
+old [description:"try" end:"1526494711" entry:"1526494530" modified:"1526498145" status:"deleted" uuid:"73cfe772-17a3-4239-8b06-6ee28dd54246"]
+new [description:"try" end:"1526494711" entry:"1526494530" modified:"1526509706" start:"1526509706" status:"pending" uuid:"73cfe772-17a3-4239-8b06-6ee28dd54246"]
+---
