@@ -4,3 +4,4 @@
 {"description":"try","end":"20180516T181831Z","entry":"20180516T181530Z","modified":"20180516T181831Z","status":"completed","uuid":"73cfe772-17a3-4239-8b06-6ee28dd54246"}
 {"description":"try","end":"20180516T181831Z","entry":"20180516T181530Z","modified":"20180516T191545Z","status":"deleted","uuid":"73cfe772-17a3-4239-8b06-6ee28dd54246"}
 {"description":"--task-git-push Trying task w\/ git","entry":"20180516T220154Z","modified":"20180516T220154Z","status":"pending","uuid":"0d2cd474-205d-424a-979b-7faa2022a3a3"}
+{"description":"--task-git-push Trying task w\/ git","end":"20180516T220344Z","entry":"20180516T220154Z","modified":"20180516T220346Z","status":"deleted","uuid":"0d2cd474-205d-424a-979b-7faa2022a3a3"}
