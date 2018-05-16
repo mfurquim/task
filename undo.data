@@ -17,3 +17,6 @@ time 1526498145
 old [description:"try" end:"1526494711" entry:"1526494530" modified:"1526494711" status:"completed" uuid:"73cfe772-17a3-4239-8b06-6ee28dd54246"]
 new [description:"try" end:"1526494711" entry:"1526494530" modified:"1526498145" status:"deleted" uuid:"73cfe772-17a3-4239-8b06-6ee28dd54246"]
 ---
+time 1526508114
+new [description:"--task-git-push Trying task w\/ git" entry:"1526508114" modified:"1526508114" status:"pending" uuid:"0d2cd474-205d-424a-979b-7faa2022a3a3"]
+---
